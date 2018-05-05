@@ -1,0 +1,8 @@
+Drones to the rescue!
+Drones may be best known for taking impressive aerial videos and inspecting buildings, infrastructure and crops, but they also promise to improve mobile and internet connectivity for emergency services and consumers.
+Poor mobile signal in rural areas is frustrating, but it can also be life-threatening in emergency situations. Slow emergency response times mean higher mortality rates.
+Mobile signals are usually sent via base stations, attached to buildings or special masts. These are tough to put up in a hurry - so why not attach a base station to a drone?
+For the last two years, the Finnish tech firm Nokia and British mobile operator EE have been flying small quadcopter drones mounted with portable mobile base stations in Scotland.
+The idea is that in an emergency, a drone could hover over a disaster area to provide instant 4G mobile network coverage with a 50km (31 mile) radius.
+But drones can't fly for very long before the battery runs out - 30 minutes is a typical maximum.
+So US telecoms giant AT&T is developing a large, helicopter-like drone known as the "Flying COW", short for "Cell on Wings". It is tethered to the ground by a cable that gives it power.

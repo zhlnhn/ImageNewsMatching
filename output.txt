@@ -1,0 +1,304 @@
+DataLoaderRaw loading images from folder:  /Users/hanzhilin/NLP/entity_caption_data/image/test
+0
+listing all images in directory /Users/hanzhilin/NLP/entity_caption_data/image/test
+DataLoaderRaw found  130  images
+cp "/Users/hanzhilin/NLP/entity_caption_data/image/test/234146305.jpg" vis/imgs/img1.jpg
+image 1: a group of people standing in a baseball field
+cp "/Users/hanzhilin/NLP/entity_caption_data/image/test/4971100985.jpg" vis/imgs/img2.jpg
+image 2: a woman with a hat and a hat on her head
+cp "/Users/hanzhilin/NLP/entity_caption_data/image/test/32682574153.jpg" vis/imgs/img3.jpg
+image 3: a group of people standing next to each other
+cp "/Users/hanzhilin/NLP/entity_caption_data/image/test/32700092965.jpg" vis/imgs/img4.jpg
+image 4: a group of men playing a game of frisbee
+cp "/Users/hanzhilin/NLP/entity_caption_data/image/test/33313613225.jpg" vis/imgs/img5.jpg
+image 5: a group of police officers on a city street
+cp "/Users/hanzhilin/NLP/entity_caption_data/image/test/14854452387.jpg" vis/imgs/img6.jpg
+image 6: a man wearing a hat and a hat on a cell phone
+cp "/Users/hanzhilin/NLP/entity_caption_data/image/test/31915653684.jpg" vis/imgs/img7.jpg
+image 7: a man holding a baseball bat in his hand
+cp "/Users/hanzhilin/NLP/entity_caption_data/image/test/4233837747.jpg" vis/imgs/img8.jpg
+image 8: a group of people standing on a street
+cp "/Users/hanzhilin/NLP/entity_caption_data/image/test/3405774543.jpg" vis/imgs/img9.jpg
+image 9: a group of men on a field playing a game of soccer
+cp "/Users/hanzhilin/NLP/entity_caption_data/image/test/6786843196.jpg" vis/imgs/img10.jpg
+image 10: a man with a colorful hat and a hat
+evaluating validation preformance... 9/130 (0.000000)
+cp "/Users/hanzhilin/NLP/entity_caption_data/image/test/32707503432.jpg" vis/imgs/img11.jpg
+image 11: a group of people walking down a city street
+cp "/Users/hanzhilin/NLP/entity_caption_data/image/test/32063946003.jpg" vis/imgs/img12.jpg
+image 12: a man riding a horse drawn carriage down a street
+cp "/Users/hanzhilin/NLP/entity_caption_data/image/test/16763319335.jpg" vis/imgs/img13.jpg
+image 13: a man is playing tennis on a tennis court
+cp "/Users/hanzhilin/NLP/entity_caption_data/image/test/15134406535.jpg" vis/imgs/img14.jpg
+image 14: a group of men playing a game of soccer
+cp "/Users/hanzhilin/NLP/entity_caption_data/image/test/32320854820.jpg" vis/imgs/img15.jpg
+image 15: a man in a red shirt is playing frisbee
+cp "/Users/hanzhilin/NLP/entity_caption_data/image/test/33012650900.jpg" vis/imgs/img16.jpg
+image 16: a group of people standing around a red fire hydrant
+cp "/Users/hanzhilin/NLP/entity_caption_data/image/test/33116340500.jpg" vis/imgs/img17.jpg
+image 17: a large group of people standing in a field
+cp "/Users/hanzhilin/NLP/entity_caption_data/image/test/33281437182.jpg" vis/imgs/img18.jpg
+image 18: a man in a military uniform is holding a large
+cp "/Users/hanzhilin/NLP/entity_caption_data/image/test/5518531488.jpg" vis/imgs/img19.jpg
+image 19: a man in a white shirt is playing tennis
+cp "/Users/hanzhilin/NLP/entity_caption_data/image/test/32407163794.jpg" vis/imgs/img20.jpg
+image 20: a crowd of people standing around a sign
+evaluating validation preformance... 19/130 (0.000000)
+cp "/Users/hanzhilin/NLP/entity_caption_data/image/test/3446920425.jpg" vis/imgs/img21.jpg
+image 21: a group of people on a field playing soccer
+cp "/Users/hanzhilin/NLP/entity_caption_data/image/test/5092233707.jpg" vis/imgs/img22.jpg
+image 22: a group of people playing soccer on a field
+cp "/Users/hanzhilin/NLP/entity_caption_data/image/test/3360468718.jpg" vis/imgs/img23.jpg
+image 23: a woman is holding a cell phone in her hand
+cp "/Users/hanzhilin/NLP/entity_caption_data/image/test/14319448420.jpg" vis/imgs/img24.jpg
+image 24: a group of people playing a game of tennis
+cp "/Users/hanzhilin/NLP/entity_caption_data/image/test/3500394545.jpg" vis/imgs/img25.jpg
+image 25: a woman is holding a teddy bear in her hand
+cp "/Users/hanzhilin/NLP/entity_caption_data/image/test/1690071759.jpg" vis/imgs/img26.jpg
+image 26: a group of women playing a game of soccer
+cp "/Users/hanzhilin/NLP/entity_caption_data/image/test/10898758014.jpg" vis/imgs/img27.jpg
+image 27: a group of men playing a game of soccer
+cp "/Users/hanzhilin/NLP/entity_caption_data/image/test/4463906303.jpg" vis/imgs/img28.jpg
+image 28: a large crowd of people watching a game of tennis
+cp "/Users/hanzhilin/NLP/entity_caption_data/image/test/32320863730.jpg" vis/imgs/img29.jpg
+image 29: a man in a white shirt is playing tennis
+cp "/Users/hanzhilin/NLP/entity_caption_data/image/test/5251309097.jpg" vis/imgs/img30.jpg
+image 30: a man is swinging a tennis racket at a ball
+evaluating validation preformance... 29/130 (0.000000)
+cp "/Users/hanzhilin/NLP/entity_caption_data/image/test/3660940913.jpg" vis/imgs/img31.jpg
+image 31: a group of men sitting on a boat in a river
+cp "/Users/hanzhilin/NLP/entity_caption_data/image/test/15134077412.jpg" vis/imgs/img32.jpg
+image 32: a group of men playing a game of baseball
+cp "/Users/hanzhilin/NLP/entity_caption_data/image/test/5394694173.jpg" vis/imgs/img33.jpg
+image 33: a group of men standing next to each other
+cp "/Users/hanzhilin/NLP/entity_caption_data/image/test/14222463315.jpg" vis/imgs/img34.jpg
+image 34: a group of people standing in a room
+cp "/Users/hanzhilin/NLP/entity_caption_data/image/test/3023216759.jpg" vis/imgs/img35.jpg
+image 35: a man and a woman sitting on a bench
+cp "/Users/hanzhilin/NLP/entity_caption_data/image/test/31896336163.jpg" vis/imgs/img36.jpg
+image 36: a woman is holding a stop sign in front of a building
+cp "/Users/hanzhilin/NLP/entity_caption_data/image/test/19622343509.jpg" vis/imgs/img37.jpg
+image 37: a woman and a woman are playing a game of frisbee
+cp "/Users/hanzhilin/NLP/entity_caption_data/image/test/2651949786.jpg" vis/imgs/img38.jpg
+image 38: a group of people sitting on a park bench
+cp "/Users/hanzhilin/NLP/entity_caption_data/image/test/5897692488.jpg" vis/imgs/img39.jpg
+image 39: a woman in a bikini holding a tennis racquet
+cp "/Users/hanzhilin/NLP/entity_caption_data/image/test/17099350038.jpg" vis/imgs/img40.jpg
+image 40: two men playing a game of tennis on a court
+evaluating validation preformance... 39/130 (0.000000)
+cp "/Users/hanzhilin/NLP/entity_caption_data/image/test/33052566430.jpg" vis/imgs/img41.jpg
+image 41: a woman in a pink dress is holding a cell phone
+cp "/Users/hanzhilin/NLP/entity_caption_data/image/test/636412528.jpg" vis/imgs/img42.jpg
+image 42: a man and a woman standing next to each other
+cp "/Users/hanzhilin/NLP/entity_caption_data/image/test/5464307193.jpg" vis/imgs/img43.jpg
+image 43: a large group of people standing around in a field
+cp "/Users/hanzhilin/NLP/entity_caption_data/image/test/16762467271.jpg" vis/imgs/img44.jpg
+image 44: two men playing a game of frisbee on a field
+cp "/Users/hanzhilin/NLP/entity_caption_data/image/test/138363991.jpg" vis/imgs/img45.jpg
+image 45: a group of people walking down a street
+cp "/Users/hanzhilin/NLP/entity_caption_data/image/test/33456019175.jpg" vis/imgs/img46.jpg
+image 46: a woman holding a teddy bear in front of a crowd
+cp "/Users/hanzhilin/NLP/entity_caption_data/image/test/32942912631.jpg" vis/imgs/img47.jpg
+image 47: a group of people standing next to each other
+cp "/Users/hanzhilin/NLP/entity_caption_data/image/test/15368122900.jpg" vis/imgs/img48.jpg
+image 48: a man and a woman are holding a baby
+cp "/Users/hanzhilin/NLP/entity_caption_data/image/test/2626580486.jpg" vis/imgs/img49.jpg
+image 49: a large crowd of people standing around a large crowd
+cp "/Users/hanzhilin/NLP/entity_caption_data/image/test/16775969814.jpg" vis/imgs/img50.jpg
+image 50: a man is holding a umbrella in the rain
+evaluating validation preformance... 49/130 (0.000000)
+cp "/Users/hanzhilin/NLP/entity_caption_data/image/test/32940882714.jpg" vis/imgs/img51.jpg
+image 51: a group of people standing on a street in a city
+cp "/Users/hanzhilin/NLP/entity_caption_data/image/test/32655671734.jpg" vis/imgs/img52.jpg
+image 52: a group of people standing next to each other
+cp "/Users/hanzhilin/NLP/entity_caption_data/image/test/32756203912.jpg" vis/imgs/img53.jpg
+image 53: a large group of people walking down a street
+cp "/Users/hanzhilin/NLP/entity_caption_data/image/test/3461981098.jpg" vis/imgs/img54.jpg
+image 54: a group of people riding skis down a snow covered slope
+cp "/Users/hanzhilin/NLP/entity_caption_data/image/test/16447950688.jpg" vis/imgs/img55.jpg
+image 55: a group of people standing next to each other
+cp "/Users/hanzhilin/NLP/entity_caption_data/image/test/15645946527.jpg" vis/imgs/img56.jpg
+image 56: a group of men playing soccer on a field
+cp "/Users/hanzhilin/NLP/entity_caption_data/image/test/14419288356.jpg" vis/imgs/img57.jpg
+image 57: a man in a suit and tie standing next to a woman
+cp "/Users/hanzhilin/NLP/entity_caption_data/image/test/16363626067.jpg" vis/imgs/img58.jpg
+image 58: two men standing next to each other in a room
+cp "/Users/hanzhilin/NLP/entity_caption_data/image/test/5781082181.jpg" vis/imgs/img59.jpg
+image 59: a crowd of people are flying kites in the air
+cp "/Users/hanzhilin/NLP/entity_caption_data/image/test/3420049693.jpg" vis/imgs/img60.jpg
+image 60: a group of men standing on top of a baseball field
+evaluating validation preformance... 59/130 (0.000000)
+cp "/Users/hanzhilin/NLP/entity_caption_data/image/test/31944730533.jpg" vis/imgs/img61.jpg
+image 61: a group of men playing a game of soccer
+cp "/Users/hanzhilin/NLP/entity_caption_data/image/test/2599237728.jpg" vis/imgs/img62.jpg
+image 62: a group of people standing next to each other
+cp "/Users/hanzhilin/NLP/entity_caption_data/image/test/33527894331.jpg" vis/imgs/img63.jpg
+image 63: a man wearing a helmet and a helmet
+cp "/Users/hanzhilin/NLP/entity_caption_data/image/test/33027351700.jpg" vis/imgs/img64.jpg
+image 64: a little girl wearing a pink dress and holding a pink umbrella
+cp "/Users/hanzhilin/NLP/entity_caption_data/image/test/172569761.jpg" vis/imgs/img65.jpg
+image 65: a large crowd of people standing around a large crowd
+cp "/Users/hanzhilin/NLP/entity_caption_data/image/test/14255397428.jpg" vis/imgs/img66.jpg
+image 66: a group of people riding bikes down a street
+cp "/Users/hanzhilin/NLP/entity_caption_data/image/test/32071721764.jpg" vis/imgs/img67.jpg
+image 67: a group of people riding horses down a street
+cp "/Users/hanzhilin/NLP/entity_caption_data/image/test/6334574299.jpg" vis/imgs/img68.jpg
+image 68: a man is a tennis ball with a racket
+cp "/Users/hanzhilin/NLP/entity_caption_data/image/test/16555941655.jpg" vis/imgs/img69.jpg
+image 69: a group of people standing around a bunch of bananas
+cp "/Users/hanzhilin/NLP/entity_caption_data/image/test/32874620141.jpg" vis/imgs/img70.jpg
+image 70: a woman talking on a cell phone while walking down a street
+evaluating validation preformance... 69/130 (0.000000)
+cp "/Users/hanzhilin/NLP/entity_caption_data/image/test/6191157789.jpg" vis/imgs/img71.jpg
+image 71: a group of women standing next to each other on a beach
+cp "/Users/hanzhilin/NLP/entity_caption_data/image/test/32794795812.jpg" vis/imgs/img72.jpg
+image 72: a man and a woman in a room
+cp "/Users/hanzhilin/NLP/entity_caption_data/image/test/33775195765.jpg" vis/imgs/img73.jpg
+image 73: a woman in a dress shirt and a pink dress
+cp "/Users/hanzhilin/NLP/entity_caption_data/image/test/14923287678.jpg" vis/imgs/img74.jpg
+image 74: a man with a hat and a hat and a hat
+cp "/Users/hanzhilin/NLP/entity_caption_data/image/test/6213400400.jpg" vis/imgs/img75.jpg
+image 75: a group of men playing a game of soccer
+cp "/Users/hanzhilin/NLP/entity_caption_data/image/test/32547465342.jpg" vis/imgs/img76.jpg
+image 76: a man in a red shirt is playing a game of frisbee
+cp "/Users/hanzhilin/NLP/entity_caption_data/image/test/17271876985.jpg" vis/imgs/img77.jpg
+image 77: a group of baseball players standing next to each other
+cp "/Users/hanzhilin/NLP/entity_caption_data/image/test/15057669945.jpg" vis/imgs/img78.jpg
+image 78: a group of people standing next to each other
+cp "/Users/hanzhilin/NLP/entity_caption_data/image/test/16266701505.jpg" vis/imgs/img79.jpg
+image 79: a crowd of people standing around a street sign
+cp "/Users/hanzhilin/NLP/entity_caption_data/image/test/32684112923.jpg" vis/imgs/img80.jpg
+image 80: a large group of people standing around a large crowd of people
+evaluating validation preformance... 79/130 (0.000000)
+cp "/Users/hanzhilin/NLP/entity_caption_data/image/test/16620991126.jpg" vis/imgs/img81.jpg
+image 81: a woman is riding a horse in a parade
+cp "/Users/hanzhilin/NLP/entity_caption_data/image/test/6213394588.jpg" vis/imgs/img82.jpg
+image 82: a group of men on a field playing soccer
+cp "/Users/hanzhilin/NLP/entity_caption_data/image/test/3406586126.jpg" vis/imgs/img83.jpg
+image 83: a couple of men on a field playing soccer
+cp "/Users/hanzhilin/NLP/entity_caption_data/image/test/12878529364.jpg" vis/imgs/img84.jpg
+image 84: a woman in a pink dress is holding a cell phone
+cp "/Users/hanzhilin/NLP/entity_caption_data/image/test/5203399343.jpg" vis/imgs/img85.jpg
+image 85: a man and a woman playing a game of soccer
+cp "/Users/hanzhilin/NLP/entity_caption_data/image/test/2812064989.jpg" vis/imgs/img86.jpg
+image 86: a group of people playing a game of tennis
+cp "/Users/hanzhilin/NLP/entity_caption_data/image/test/16269692461.jpg" vis/imgs/img87.jpg
+image 87: a group of people standing around a large crowd of people
+cp "/Users/hanzhilin/NLP/entity_caption_data/image/test/6191162251.jpg" vis/imgs/img88.jpg
+image 88: a group of girls standing on a street
+cp "/Users/hanzhilin/NLP/entity_caption_data/image/test/4105506924.jpg" vis/imgs/img89.jpg
+image 89: a group of men playing a game of soccer
+cp "/Users/hanzhilin/NLP/entity_caption_data/image/test/3960388719.jpg" vis/imgs/img90.jpg
+image 90: a tennis player in action on the court
+evaluating validation preformance... 89/130 (0.000000)
+cp "/Users/hanzhilin/NLP/entity_caption_data/image/test/19927768876.jpg" vis/imgs/img91.jpg
+image 91: a group of people standing in a street with umbrellas
+cp "/Users/hanzhilin/NLP/entity_caption_data/image/test/6000346891.jpg" vis/imgs/img92.jpg
+image 92: a woman with a pink dress is holding a pair of scissors
+cp "/Users/hanzhilin/NLP/entity_caption_data/image/test/5474275214.jpg" vis/imgs/img93.jpg
+image 93: a group of men standing next to each other
+cp "/Users/hanzhilin/NLP/entity_caption_data/image/test/15614234597.jpg" vis/imgs/img94.jpg
+image 94: a group of men playing a game of basketball
+cp "/Users/hanzhilin/NLP/entity_caption_data/image/test/4867548656.jpg" vis/imgs/img95.jpg
+image 95: a group of people playing a game of soccer
+cp "/Users/hanzhilin/NLP/entity_caption_data/image/test/32554592292.jpg" vis/imgs/img96.jpg
+image 96: a group of people standing next to each other
+cp "/Users/hanzhilin/NLP/entity_caption_data/image/test/32696562706.jpg" vis/imgs/img97.jpg
+image 97: a woman in a red dress is standing on a street
+cp "/Users/hanzhilin/NLP/entity_caption_data/image/test/14311473106.jpg" vis/imgs/img98.jpg
+image 98: a woman in a pink dress and a pink dress
+cp "/Users/hanzhilin/NLP/entity_caption_data/image/test/4612761190.jpg" vis/imgs/img99.jpg
+image 99: a group of men standing next to each other
+cp "/Users/hanzhilin/NLP/entity_caption_data/image/test/4971198297.jpg" vis/imgs/img100.jpg
+image 100: a woman holding a pink umbrella in her hand
+evaluating validation preformance... 99/130 (0.000000)
+cp "/Users/hanzhilin/NLP/entity_caption_data/image/test/14511233727.jpg" vis/imgs/img101.jpg
+image 101: a group of people are dressed in costumes
+cp "/Users/hanzhilin/NLP/entity_caption_data/image/test/16392065009.jpg" vis/imgs/img102.jpg
+image 102: a group of men playing a game of frisbee
+cp "/Users/hanzhilin/NLP/entity_caption_data/image/test/17261166716.jpg" vis/imgs/img103.jpg
+image 103: a man in a white shirt and black shorts playing baseball
+cp "/Users/hanzhilin/NLP/entity_caption_data/image/test/4834521003.jpg" vis/imgs/img104.jpg
+image 104: a group of young children playing a game of soccer
+cp "/Users/hanzhilin/NLP/entity_caption_data/image/test/15661428748.jpg" vis/imgs/img105.jpg
+image 105: a man in a baseball uniform holding a ball
+cp "/Users/hanzhilin/NLP/entity_caption_data/image/test/6771217325.jpg" vis/imgs/img106.jpg
+image 106: a woman dressed in a costume and a hat
+cp "/Users/hanzhilin/NLP/entity_caption_data/image/test/32604662782.jpg" vis/imgs/img107.jpg
+image 107: a man in a baseball uniform holding a bat
+cp "/Users/hanzhilin/NLP/entity_caption_data/image/test/6247443443.jpg" vis/imgs/img108.jpg
+image 108: a man in a helmet is riding a skateboard
+cp "/Users/hanzhilin/NLP/entity_caption_data/image/test/27811842350.jpg" vis/imgs/img109.jpg
+image 109: a group of people standing around a table
+cp "/Users/hanzhilin/NLP/entity_caption_data/image/test/3300022030.jpg" vis/imgs/img110.jpg
+image 110: a man in a red shirt and black shorts playing soccer
+evaluating validation preformance... 109/130 (0.000000)
+cp "/Users/hanzhilin/NLP/entity_caption_data/image/test/33143790310.jpg" vis/imgs/img111.jpg
+image 111: a woman wearing a pink dress and a hat
+cp "/Users/hanzhilin/NLP/entity_caption_data/image/test/15829188001.jpg" vis/imgs/img112.jpg
+image 112: a group of men playing a game of soccer
+cp "/Users/hanzhilin/NLP/entity_caption_data/image/test/4727388008.jpg" vis/imgs/img113.jpg
+image 113: a group of men playing a game of soccer
+cp "/Users/hanzhilin/NLP/entity_caption_data/image/test/182668993.jpg" vis/imgs/img114.jpg
+image 114: a man in a red shirt and a red tie
+cp "/Users/hanzhilin/NLP/entity_caption_data/image/test/15645295649.jpg" vis/imgs/img115.jpg
+image 115: a group of men playing a game of soccer
+cp "/Users/hanzhilin/NLP/entity_caption_data/image/test/6122555496.jpg" vis/imgs/img116.jpg
+image 116: a woman in a pink dress is holding an umbrella
+cp "/Users/hanzhilin/NLP/entity_caption_data/image/test/15499083167.jpg" vis/imgs/img117.jpg
+image 117: a man and woman dressed in costumes costumes
+cp "/Users/hanzhilin/NLP/entity_caption_data/image/test/32320854380.jpg" vis/imgs/img118.jpg
+image 118: a man in a red shirt is playing a game of frisbee
+cp "/Users/hanzhilin/NLP/entity_caption_data/image/test/6140433439.jpg" vis/imgs/img119.jpg
+image 119: a woman in a bikini is playing a game of frisbee
+cp "/Users/hanzhilin/NLP/entity_caption_data/image/test/5222541088.jpg" vis/imgs/img120.jpg
+image 120: a group of people standing around a table with a large
+evaluating validation preformance... 119/130 (0.000000)
+cp "/Users/hanzhilin/NLP/entity_caption_data/image/test/32096404234.jpg" vis/imgs/img121.jpg
+image 121: a group of people standing around a motorcycle
+cp "/Users/hanzhilin/NLP/entity_caption_data/image/test/4710809756.jpg" vis/imgs/img122.jpg
+image 122: a man in a white shirt and black shorts playing soccer
+cp "/Users/hanzhilin/NLP/entity_caption_data/image/test/16024346174.jpg" vis/imgs/img123.jpg
+image 123: a man and a woman standing in front of a tree
+cp "/Users/hanzhilin/NLP/entity_caption_data/image/test/32799276851.jpg" vis/imgs/img124.jpg
+image 124: a woman and a woman are playing a game
+cp "/Users/hanzhilin/NLP/entity_caption_data/image/test/2624150863.jpg" vis/imgs/img125.jpg
+image 125: a baseball player swinging a bat at a ball
+cp "/Users/hanzhilin/NLP/entity_caption_data/image/test/32898457350.jpg" vis/imgs/img126.jpg
+image 126: a group of people walking down a street with umbrellas
+cp "/Users/hanzhilin/NLP/entity_caption_data/image/test/31857959664.jpg" vis/imgs/img127.jpg
+image 127: a woman is holding a colorful umbrella
+cp "/Users/hanzhilin/NLP/entity_caption_data/image/test/5131624870.jpg" vis/imgs/img128.jpg
+image 128: a group of people standing on top of a field
+cp "/Users/hanzhilin/NLP/entity_caption_data/image/test/3495284608.jpg" vis/imgs/img129.jpg
+image 129: a group of people on skis in the snow
+cp "/Users/hanzhilin/NLP/entity_caption_data/image/test/32700094115.jpg" vis/imgs/img130.jpg
+image 130: a man is playing a game of tennis
+evaluating validation preformance... -1/130 (0.000000)
+loss:  0.0
+DataLoaderRaw loading images from folder:  /Users/hanzhilin/NLP/no_cuda/my_test/
+0
+listing all images in directory /Users/hanzhilin/NLP/no_cuda/my_test/
+DataLoaderRaw found  1  images
+cp "/Users/hanzhilin/NLP/no_cuda/my_test/180417155407-southwest-plane-engine-failure-large-tease.jpg" vis/imgs/img1.jpg
+image 1: a large air plane on a run way
+cp "/Users/hanzhilin/NLP/no_cuda/my_test/180417155407-southwest-plane-engine-failure-large-tease.jpg" vis/imgs/img2.jpg
+image 1: a large air plane on a run way
+cp "/Users/hanzhilin/NLP/no_cuda/my_test/180417155407-southwest-plane-engine-failure-large-tease.jpg" vis/imgs/img3.jpg
+image 1: a large air plane on a run way
+cp "/Users/hanzhilin/NLP/no_cuda/my_test/180417155407-southwest-plane-engine-failure-large-tease.jpg" vis/imgs/img4.jpg
+image 1: a large air plane on a run way
+cp "/Users/hanzhilin/NLP/no_cuda/my_test/180417155407-southwest-plane-engine-failure-large-tease.jpg" vis/imgs/img5.jpg
+image 1: a large air plane on a run way
+cp "/Users/hanzhilin/NLP/no_cuda/my_test/180417155407-southwest-plane-engine-failure-large-tease.jpg" vis/imgs/img6.jpg
+image 1: a large air plane on a run way
+cp "/Users/hanzhilin/NLP/no_cuda/my_test/180417155407-southwest-plane-engine-failure-large-tease.jpg" vis/imgs/img7.jpg
+image 1: a large air plane on a run way
+cp "/Users/hanzhilin/NLP/no_cuda/my_test/180417155407-southwest-plane-engine-failure-large-tease.jpg" vis/imgs/img8.jpg
+image 1: a large air plane on a run way
+cp "/Users/hanzhilin/NLP/no_cuda/my_test/180417155407-southwest-plane-engine-failure-large-tease.jpg" vis/imgs/img9.jpg
+image 1: a large air plane on a run way
+cp "/Users/hanzhilin/NLP/no_cuda/my_test/180417155407-southwest-plane-engine-failure-large-tease.jpg" vis/imgs/img10.jpg
+image 1: a large air plane on a run way
+evaluating validation preformance... -1/1 (0.000000)
+loss:  0.0

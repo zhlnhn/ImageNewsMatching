@@ -1,0 +1,19 @@
+image8: a plane is flying in the air with a sky background
+image7: an old fashioned factory with a clock on it
+image6: a group of people sitting around a table with a bunch of bananas
+image4: a small boat is traveling down the river
+image5: a man standing next to a train on a train track
+image1: a large air plane on a run way
+image2: a man holding a frisbee in front of a building
+image3: a soccer player is kicking a ball on a field
+image8: a plane is flying in the air with a sky background
+image7: an old fashioned factory with a clock on it
+image8: a plane is flying in the air with a sky background
+counter: a large jetliner flying through a blue sky
+image7: an old fashioned factory with a clock on it
+image6: a group of people sitting around a table with a bunch of bananas
+image4: a small boat is traveling down the river
+image5: a man standing next to a train on a train track
+image1: a large air plane on a run way
+image2: a man holding a frisbee in front of a building
+image3: a soccer player is kicking a ball on a field
